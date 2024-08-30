@@ -1,5 +1,5 @@
 # Movie Recommendation System
-
+[![Example](https://github.com/Zachdj27/Movie-Recommendation-System/assets/151213591/77f90079-1ec5-4709-8ff8-b06c9bb60522)
 
 ## What It Does
 The program recommends movies from the [MovieLens 25M Dataset] (https://www.kaggle.com/datasets/garymk/movielens-25m-dataset) based on a movie you liked. 
