@@ -1,4 +1,5 @@
 # Movie Recommendation System
+https://github.com/Zachdj27/Movie-Recommendation-System/assets/151213591/77f90079-1ec5-4709-8ff8-b06c9bb60522
 
 ## What It Does
 The program recommends movies from the [MovieLens 25M Dataset] (https://www.kaggle.com/datasets/garymk/movielens-25m-dataset) based on a movie you liked. 
@@ -12,10 +13,9 @@ For example, if you entered the movie "Fight Club" in the search box, you would 
 5. The top 5 most "niche" movies are then recommended.
 
 ## Tech Stack
-Tools/platforms: Jupyter Notebook
-Languages: Python
-Python Modules: Numpy, Pandas, Sklearn Ipywidgets, IPython
+- Tools/platforms: Jupyter Notebook
+- Languages: Python
+- Python Modules: Numpy, Pandas, Sklearn Ipywidgets, IPython
 
-## How it Looks
-https://github.com/Zachdj27/Movie-Recommendation-System/assets/151213591/77f90079-1ec5-4709-8ff8-b06c9bb60522
+
 
